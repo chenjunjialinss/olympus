@@ -1,0 +1,54 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为请求参数，包括不限于网址、请求头、响应头、COOKIE、Referer、UserAgent",
+        " *   本文件仅为记录详细请求参数便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "directory": "olympus-crumina-net-su4ho3ff",
+    "options": {
+        "url": "https://olympus.crumina.net/members/crumina/info/",
+        "ipaddress": "68.183.25.140",
+        "domain": "olympus.crumina.net",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Sun, 09 Aug 2020 08:10:46 GMT",
+                "content-type": "text/html; charset=UTF-8",
+                "content-length": "25667",
+                "connection": "close",
+                "last-modified": "Sun, 09 Aug 2020 07:44:26 GMT",
+                "vary": "Accept-Encoding",
+                "content-encoding": "gzip",
+                "cache-control": "max-age=0",
+                "expires": "Sun, 09 Aug 2020 08:10:46 GMT"
+            }
+        }
+    },
+    "formatter": {
+        "css": false,
+        "html": false,
+        "javascript": false,
+        "save-original": true
+    },
+    "user": {
+        "isWhite": false
+    },
+    "time": {
+        "start": 1596960645983,
+        "end": 1596960670935,
+        "spend": "24.952s"
+    }
+}

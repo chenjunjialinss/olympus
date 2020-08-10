@@ -1,0 +1,54 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为请求参数，包括不限于网址、请求头、响应头、COOKIE、Referer、UserAgent",
+        " *   本文件仅为记录详细请求参数便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "directory": "olympus-crumina-net-vnv4a1vj",
+    "options": {
+        "url": "https://olympus.crumina.net/check-out-this-10-yummy-breakfast-recipes/",
+        "ipaddress": "68.183.25.140",
+        "domain": "olympus.crumina.net",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Sun, 09 Aug 2020 08:25:53 GMT",
+                "content-type": "text/html; charset=UTF-8",
+                "content-length": "25011",
+                "connection": "close",
+                "last-modified": "Sat, 08 Aug 2020 23:44:47 GMT",
+                "vary": "Accept-Encoding",
+                "content-encoding": "gzip",
+                "cache-control": "max-age=0",
+                "expires": "Sun, 09 Aug 2020 08:25:53 GMT"
+            }
+        }
+    },
+    "formatter": {
+        "css": false,
+        "html": false,
+        "javascript": false,
+        "save-original": true
+    },
+    "user": {
+        "isWhite": false
+    },
+    "time": {
+        "start": 1596961552308,
+        "end": 1596961577421,
+        "spend": "25.113s"
+    }
+}
